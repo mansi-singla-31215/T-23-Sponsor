@@ -8,7 +8,7 @@ background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
 background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
   display: grid;
   place-items: center;
-  background-image: url('bg-image.jpeg');
+  background-image: url('https://mansi-singla-31215.github.io/T-23-Sponsor/bg-image.jpeg');
 }
 
 .contain {
