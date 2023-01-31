@@ -34,7 +34,10 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
   align-items: center;
   height: 4rem;
   color: #ffffff;
-  z-index: 20;
+  position: relative;
+  /* left: 0px;
+  top: 0px; */
+  z-index: 2;
 }
 
 .imgContainer{
