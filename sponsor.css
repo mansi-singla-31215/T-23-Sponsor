@@ -257,6 +257,10 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
   .contained h1{
     font-size: 28px;
   }
+
+h1 {
+    padding-top: 10px;
+}
   .card .content h4{
     font-size: 1.5rem;
   }
@@ -265,7 +269,7 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
  @media only screen and (max-width: 500px){
   .neons h1{
     font-size: 3.2rem;
-    padding-top: 30px;
+    padding-top: 45px;
    }
    .contained{
     margin-top: -10px;
