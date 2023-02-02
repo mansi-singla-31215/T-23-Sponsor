@@ -107,7 +107,7 @@ body{
 .title {
   padding-top: 0rem;
   color: rgba(91, 74, 47, 0.72);
-  font-size: 7rem;
+  font-size: 5rem;
   text-align: center;
   text-shadow: #fff;
   padding-left: 15px;
@@ -117,7 +117,7 @@ body{
 }
 
 .neons {
-  font-size: 7rem;
+  font-size: 5rem;
   text-align: center;
   -webkit-animation: glow 2s ease-in-out infinite alternate;
   -moz-animation: glow 2s ease-in-out infinite alternate;
@@ -126,7 +126,7 @@ body{
 .neons h1 {
   padding-top: 3rem;
   /* padding-left: 3rem; */
-  font-size: 7rem;
+  font-size: 5rem;
   text-decoration: none;
   color: #f2b553;
   text-align: center;
@@ -244,7 +244,7 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
 
 @media only screen and (max-width: 930px){
  .neons h1{
-  font-size: 7rem;
+  font-size: 5rem;
  }
 }
 
@@ -271,8 +271,8 @@ h1 {
 
  @media only screen and (max-width: 500px){
   .neons h1{
-    font-size: 3.2rem;
-    padding-top: 50px;
+    font-size: 4rem;
+    /* padding-top: 50px; */
    }
    .contained{
     margin-top: -10px;
