@@ -272,7 +272,7 @@ h1 {
  @media only screen and (max-width: 500px){
   .neons h1{
     font-size: 3.2rem;
-    /* padding-top: 50px; */
+    padding-top: 60px;
    }
    .contained{
     margin-top: -10px;

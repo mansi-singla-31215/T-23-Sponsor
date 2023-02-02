@@ -324,7 +324,7 @@ nav .close:hover div::after{
     }
     nav ul{
         position: fixed;
-        top: 10vh;
+        top: 6vh;
     }
     nav ul li{
         margin: 45px 0;
