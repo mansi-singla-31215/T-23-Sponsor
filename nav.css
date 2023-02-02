@@ -42,7 +42,7 @@ h1 {
 
 
 
-nav{
+/* nav{
 	position: absolute;
 	position: fixed;
 	top: 0px;
@@ -69,6 +69,32 @@ nav ul {
 
 nav ul li{
 	margin-bottom: 45px;
+} */
+
+nav{
+	position: fixed;
+	  width: 100%;
+	  height: 30px;
+	  background-color: rgba(0, 0, 0, 0.773);
+	  backdrop-filter: blur(8px);
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+    text-align: center;
+	  right: -200vw;
+    z-index: 2;
+    top: 0;
+	
+}
+
+nav ul {
+	list-style: none;
+	padding-bottom: 110px;
+}
+
+nav ul li{
+	margin: 50px 0;
+	
 }
 
 nav ul li a{
