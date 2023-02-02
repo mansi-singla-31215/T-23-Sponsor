@@ -1,6 +1,6 @@
 * {
 	margin: 0;
-	/* padding: 0; */
+	padding: 0;
 	box-sizing: border-box;
 }
 
@@ -324,10 +324,10 @@ nav .close:hover div::after{
     }
     nav ul{
         position: fixed;
-        top: 3vh;
+        top: 5vh;
     }
     nav ul li{
-        margin: 30px 0;
+        margin: 35px 0;
     }
     nav .close{
       right: 10%;
