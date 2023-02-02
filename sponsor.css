@@ -124,7 +124,7 @@ body{
   animation: glow 2s ease-in-out infinite alternate;
 }
 .neons h1 {
-  padding-top: 1.5rem;
+  padding-top: 3rem;
   /* padding-left: 3rem; */
   font-size: 7rem;
   text-decoration: none;
