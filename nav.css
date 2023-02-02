@@ -324,10 +324,10 @@ nav .close:hover div::after{
     }
     nav ul{
         position: fixed;
-        top: 5vh;
+        top: 10vh;
     }
     nav ul li{
-        margin: 35px 0;
+        margin: 45px 0;
     }
     nav .close{
       right: 10%;
