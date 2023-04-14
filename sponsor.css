@@ -154,14 +154,14 @@ body{
 }
 
 .imgspr{
-  width: 300px;
-  height: 295px;
+  width: 283px;
+  height: 278px;
   object-fit: fill;
 }
 
 .cardBox {
-  width: 320px;
-  height: 300px;
+  width: 300px;
+  height: 280px;
   position: relative;
   display: grid;
   place-items: center;

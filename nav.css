@@ -59,14 +59,12 @@ h1 {
 	flex-direction: row;
 	align-content: center;
 }
-
 nav ul {
 	list-style: none;
 	position: fixed;
 	top: 5vh;
 	margin: auto;
 }
-
 nav ul li{
 	margin-bottom: 45px;
 } */
@@ -358,4 +356,3 @@ nav .close:hover div::after{
       right: 10%;
     }
 }
-
