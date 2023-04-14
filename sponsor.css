@@ -263,7 +263,12 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
   }
   .cardBox {
     width: 230px;
-    height: 300px;
+    height: 215px;
+  }
+  .imgspr{
+    width: 220px;
+    height: 210px;
+    object-fit: fill;
   }
 
   .contained h1{
@@ -286,4 +291,13 @@ h1 {
    .contained{
     margin-top: -10px;
    }
+   .cardBox {
+    width: 210px;
+    height: 200px;
+  }
+  .imgspr{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+  }
  }
